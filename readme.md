@@ -1,3 +1,5 @@
 This is my animation read me file
 
-Tis is my line three
+This is my line three
+this is line 4
+God is not a man
